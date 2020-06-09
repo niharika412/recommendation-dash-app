@@ -1,6 +1,6 @@
 # dash-app
 
-![Book Recommendation System](https://github.com/niharika412/dash-app/blob/master/Screenshot%20(73).png)
+![Book Recommendation System](https://github.com/niharika412/recommendation-dash-app/blob/master/rec.gif)
 
 *Book Recommendation System using Plotly-Dash📚📕*
 This is an interactive web application made with plotly-dash that shows user recommendations based on content based filtering. Dash uses flask as the web software. The application also displays pie charts and some graphs used in the data visualization.
