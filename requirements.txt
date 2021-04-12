@@ -15,7 +15,7 @@ gunicorn==20.0.4
 heroku==0.1.4
 idna==2.9
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib==0.15.1
 MarkupSafe==1.1.1
 numpy==1.18.4
